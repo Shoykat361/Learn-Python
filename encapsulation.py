@@ -23,3 +23,5 @@ student.See()'''
 student.setName("Alex")
 print(student.updateName())
 student.See()
+print(student.__dir__())
+student._
