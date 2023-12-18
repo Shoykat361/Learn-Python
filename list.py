@@ -27,3 +27,9 @@ list2 = [1,2,3,4,5,5,6,7,8,8,9,10]
 print(list2.count(1))
 list2.insert(2,2.5)
 print(list2)
+
+def saha(x,y):
+    print("sahatyttt")
+    return x+y
+w = saha(1,7)
+print(w)
